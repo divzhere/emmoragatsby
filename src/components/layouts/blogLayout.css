@@ -1,0 +1,28 @@
+body {
+  font-family: 'Rubik';
+  color: #01565b;
+  background: var(--mainWhite);
+  /* line-height: 1.17; */
+  font-size: 18px;
+  height: 100%;
+  /* padding-top: 70px; */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Rubik';
+  font-size: 36px;
+  font-weight: 700;
+  color: #01565b;
+}
+
+p {
+  font-family: Rubik;
+  font-size: 18px;
+  font-weight: 400;
+  color: #01656b;
+}

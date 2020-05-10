@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="42px" viewBox="0 0 43 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>f_logo_RGB-White_1024</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 43 0 43 42 0 42"></polygon>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="f_logo_RGB-White_1024">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M43,21.1283381 C43,9.45947061 33.3741309,0 21.5,0 C9.62586914,0 0,9.45947061 0,21.1283381 C0,31.6741025 7.86223926,40.414962 18.140625,42 L18.140625,27.2357484 L12.6816406,27.2357484 L12.6816406,21.1283381 L18.140625,21.1283381 L18.140625,16.4735011 C18.140625,11.1782114 21.3504238,8.25325709 26.2614941,8.25325709 C28.6137705,8.25325709 31.0742188,8.66591994 31.0742188,8.66591994 L31.0742188,13.8654719 L28.3631191,13.8654719 C25.69229,13.8654719 24.859375,15.4941284 24.859375,17.1650003 L24.859375,21.1283381 L30.8222656,21.1283381 L29.869043,27.2357484 L24.859375,27.2357484 L24.859375,42 C35.1377607,40.414962 43,31.6741025 43,21.1283381" id="Fill-1" fill="#FFFFFE" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
