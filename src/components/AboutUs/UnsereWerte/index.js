@@ -1,7 +1,7 @@
 import React from "react"
 import data from "./data"
 
-const DasSind = () => {
+const UnsereWerte = () => {
   return (
     <div>
       <p>{data.title}</p>
@@ -21,4 +21,4 @@ const DasSind = () => {
   )
 }
 
-export default DasSind
+export default UnsereWerte

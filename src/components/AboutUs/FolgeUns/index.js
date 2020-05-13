@@ -10,4 +10,4 @@ const FolgeUns = () => {
   )
 }
 
-export default DasSind
+export default FolgeUns

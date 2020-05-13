@@ -1,4 +1,4 @@
-export default data = {
+const data = {
   title: "Unsere Werte",
   subTitle: "Diese Unternehmenswerte bestimmen unser tägliches Handeln.",
   tiles: [
@@ -19,3 +19,5 @@ export default data = {
     },
   ],
 }
+
+export default data
