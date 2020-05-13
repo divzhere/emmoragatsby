@@ -10,7 +10,6 @@
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
-
 ## 🚀 Quick start
 
 1.  **Setup a site.**
@@ -18,9 +17,8 @@ Kick off your project with this default boilerplate. This starter ships with the
     Use the Gatsby CLI to start a site running.
     Follow the docs of Gatsby to Setup and running.
     [Gatsby tutorial](https://www.gatsbyjs.org/docs/quick-start/).
-    
 
-1.  **And you ready to start.**
+1)  **And you ready to start.**
 
     Navigate into your new site’s directory and start it up.
 
@@ -43,7 +41,7 @@ A quick look at the top-level files and directories you'll see in a project.
              ├──── Header
              ├    ├── index.js
              ├    ├── styled.js
-             ├──── UberEmmora 
+             ├──── UberEmmora
              ├    ├── index.js
              ├    ├── styled.js
              ├──── Wirbringen
@@ -52,7 +50,7 @@ A quick look at the top-level files and directories you'll see in a project.
              ├──── DasSind
              ├    ├── index.js
              ├    ├── styled.js
-             ├──── UnsereWerte 
+             ├──── UnsereWerte
              ├    ├── index.js
              ├    ├── styled.js
              ├──── DieEmmora
@@ -60,10 +58,10 @@ A quick look at the top-level files and directories you'll see in a project.
              ├    ├── styled.js
              ├──── FolgeUns
              ├    ├── index.js
-             ├    ├── styled.jsWerdeTeil
-             ├──── DieEmmora
+             ├    ├── styled.js
+             ├──── WerdeTeil
              ├    ├── index.js
-             ├    ├── styled.js        
+             ├    ├── styled.js
     ├── .gitignore
     ├── .prettierrc
     ├── gatsby-browser.js
@@ -75,7 +73,4 @@ A quick look at the top-level files and directories you'll see in a project.
     ├── package.json
     └── README.md
 
-
-
 1.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
-
