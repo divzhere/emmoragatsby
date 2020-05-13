@@ -41,27 +41,35 @@ A quick look at the top-level files and directories you'll see in a project.
              ├──── Header
              ├    ├── index.js
              ├    ├── styled.js
+             ├    ├── data.js
              ├──── UberEmmora
              ├    ├── index.js
              ├    ├── styled.js
+             ├    ├── data.js
              ├──── Wirbringen
              ├    ├── index.js
              ├    ├── styled.js
+             ├    ├── data.js
              ├──── DasSind
              ├    ├── index.js
              ├    ├── styled.js
+             ├    ├── data.js
              ├──── UnsereWerte
              ├    ├── index.js
              ├    ├── styled.js
+             ├    ├── data.js
              ├──── DieEmmora
              ├    ├── index.js
              ├    ├── styled.js
+             ├    ├── data.js
              ├──── FolgeUns
              ├    ├── index.js
              ├    ├── styled.js
+             ├    ├── data.js
              ├──── WerdeTeil
              ├    ├── index.js
              ├    ├── styled.js
+             ├    ├── data.js
     ├── .gitignore
     ├── .prettierrc
     ├── gatsby-browser.js
