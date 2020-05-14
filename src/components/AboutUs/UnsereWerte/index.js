@@ -1,4 +1,5 @@
 import React from "react"
+import UnsereWerteHeart from "../../../images/Hero_Heart_big.png"
 import data from "./data"
 
 const UnsereWerte = () => {
@@ -10,7 +11,7 @@ const UnsereWerte = () => {
         {data.tiles.map(item => {
           return (
             <div>
-              <img />
+              <img src={UnsereWerteHeart} />
               <p>{item.title}</p>
               <p>{item.subTitle}</p>
             </div>

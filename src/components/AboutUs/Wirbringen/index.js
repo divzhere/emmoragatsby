@@ -1,10 +1,11 @@
 import React from "react"
+import WirbringenImage from "../../../images/shutterstock_488682844.jpg"
 import data from "./data"
 
 const Wirbringen = () => {
   return (
     <div>
-      <img />
+      <img src={WirbringenImage} />
       <p>{data.title}</p>
       <p>{data.subTitle}</p>
     </div>
