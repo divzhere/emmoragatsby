@@ -34,6 +34,10 @@ To give you a reference on how to style the component, we have styled one compon
 
 To make it easier for you, we have also designed the folder layout, and imported the text and images of all the components. Your task is to style each of the remaining components in the same style as the UberEmmora folder. 
 
+## How to submit the completed task
+
+You can submit the final submission by uploading it on your personal github in a new repo and sharing the link with me on info@ftworks.de. 
+
 If you have any questions you can always contact me.
 
 ## 🚀 Quick start
