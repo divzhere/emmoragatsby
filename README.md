@@ -3,7 +3,7 @@
 ![ftworks-logo](https://github.com/ftworksgmbh/testFinal/blob/master/src/images/ftworkslogo.png)
 
 <h1 align="center">
-  Design Task for Frontier Techworks
+  Front-End Development Task for Frontier Techworks
 </h1>
 
 In this task, our intention is to test your skills as a front end designer, and for you to become more familiar with component design principles and Gatsby. You will find below a brief of how the folder structure exists and what we are looking for.
