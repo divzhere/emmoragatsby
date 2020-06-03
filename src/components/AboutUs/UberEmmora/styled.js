@@ -13,6 +13,8 @@ export const AboutUsSection = styled.div`
   }
   ${mq[1]} {
     display: block;
+    margin-top: 566px;
+    position: relative;
   }
 `
 
